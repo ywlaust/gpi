@@ -23,10 +23,6 @@ public class GifView extends View {
 
 	private Movie mMovie;
 
-	private Movie mMovi;
-
-	private Movie mMovie246;
-
 	private int mMovieResourceId1;
 	private int mMovieResourceId2;
 
