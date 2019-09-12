@@ -29,7 +29,7 @@ public class GosDeviceControlActivity extends GosBaseActivity {
 
 	private String sendColor="LED_Color";
 
-	private String colorname="黄色33";
+	private String colorname="黄色44";
 
 
 	/** The tv MAC */
