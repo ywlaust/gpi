@@ -23,7 +23,7 @@ public class GifView extends View {
 
 	private Movie mMovie;
 
-	private Movie mMovie1;
+	private Movie mMovi;
 
 	private long mMovieStart;
 
