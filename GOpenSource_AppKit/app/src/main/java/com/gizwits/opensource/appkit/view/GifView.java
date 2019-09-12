@@ -25,6 +25,8 @@ public class GifView extends View {
 
 	private Movie mMovie1;
 
+	private Movie mMovie2;
+
 	private long mMovieStart;
 
 	private int mCurrentAnimationTime = 0;
